@@ -70,6 +70,69 @@ a {
 
 }
 
+.general-section {
+  background-color: #B4C6A6;
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.class-list {
+  background-color: #B4C6A6;
+  position: relative;
+  padding-top: 25px;
+  text-align: left;
+}
+
+.padding-div {
+  background-color: #B4C6A6;
+  height: 75vh;
+}
+
+.h3-padding {
+  margin: 0px;
+  font-size: 2rem;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.course-list {
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+.course-name {
+  background-color: #B4C6A6;
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: left;
+}
+
+.course-h1 {
+  padding-left: 2%;
+}
+
+.course-p {
+  text-align: left;
+  padding-top: 25px;
+  padding-left: 2%;
+}
+
+.hr-for-courses {
+  border-color: #66806A;
+  background-color: #B4C6A6;
+  border-style: dotted none none;
+  width: 10%;
+  border-top-width: 10px;
+  opacity: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 2%;
+  align: left;
+
+}
+
 .matt {
   border-radius: 20%;
 }
